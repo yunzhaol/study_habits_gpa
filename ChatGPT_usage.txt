@@ -2890,4 +2890,12 @@ Major: p = 0.214
 Employment Status: p = 0.494
 总结：在这些人口统计变量与 GPA 之间均未发现显著关联。
 
+学习习惯对学生学业表现有着很大的影响，本文研究了每周平均学习时长、学习偏好（喜欢小组学习或是个人学习）、预习的频率以及性别、专业、工作状态、学生身份等人口统计因素对学生最近两学期GPA平均值的影响。在2024年秋季STA304课程的240名学生中，我们收集了97份问卷数据，去除了4份无效数据后，通过R中的简单随机抽样最终选取了50份样本。根据这些样本，本研究体现出学习时间、小组和个人学习偏好、人口统计因素对GPA都没有显著影响，但偶尔预习相对于从不预习的学生，预习频率表现出了对GPA显著的正面影响。说明最低限度的预习也可能提升学业表现，这样的发现可以为未来教育干预和相关研究提供指导。
 
+Study habits have a significant impact on students‘ academic performance, and this paper examines the effects of average weekly study hours, study preference (preferring group or individual study), frequency of pre-study, and demographic factors such as gender, major, work status, and student status on students’ GPA averages for the most recent two semesters. Of the 240 students enrolled in STA 304 in the fall of 2024, we collected data from 97 questionnaires, and after removing four invalid data, a final sample of 50 was selected through simple random sampling in R. The sample of 50 students was selected through simple random sampling in R. Based on these samples, this study exemplifies that study time, group and individual study preferences, and demographic factors did not significantly affect GPA, but the frequency of occasional prepping demonstrated a significant positive effect on GPA relative to students who never prepped. Suggesting that minimal prepping may also enhance academic performance, such findings may provide guidance for future educational interventions and related research.这段怎么样
+
+ChatGPT 说：
+ChatGPT
+这段文字整体表达清晰，但有一些可以改进的地方，以提高逻辑连贯性和语言的简洁性。以下是修改后的版本：
+
+"Study habits play a significant role in students' academic performance. This paper examines the effects of average weekly study hours, study preference (group vs. individual study), frequency of pre-study, and demographic factors such as gender, major, work status, and student status on students' GPA over the most recent two semesters. From the 240 students enrolled in STA 304 in the fall of 2024, we collected 97 questionnaire responses, and after removing four invalid entries, a final sample of 50 students was randomly selected using R. Our analysis indicates that study hours, study preferences, and demographic factors did not have a significant impact on GPA. However, students who occasionally prepped demonstrated significantly higher GPAs compared to those who never prepped, suggesting that even minimal preparation may enhance academic performance. These findings may inform future educational interventions and related research."
