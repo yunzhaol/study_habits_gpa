@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Yunzhao Li
+Copyright (c) 2024 Yunzhao Li, Yufeng Zhu, Qianying Shen, Yixuan Li, Yang Su
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
