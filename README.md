@@ -63,8 +63,8 @@ The analysis scripts require the following R packages:
 ## Limitations
 
 - **Sample Size**: With a sample size of 50, the findings may not generalize to the entire student population.
-- **Self-Reported Data**: Responses are based on self-reporting, which may introduce bias.
-- **GPA Distribution**: GPA normality assumptions were not fully met, which may impact some analysis results.
+- **Assumption Violations in Statistical Tests**: Some statistical tests in our analysis assume normality and homogeneity of variances, con-ditions which were not fully met, particularly regarding the normality of GPA distributionsacross groups.
+- **Omitted Confounding Variables**: Our survey focused on study habits and academic performance, but it did not account forpotential confounding factors such as extracurricular activities, study environments, or accessto academic resources. These factors could influence both study habits and GPA, introducingpotential bias in our findings.
 
 ## Conclusion
 
